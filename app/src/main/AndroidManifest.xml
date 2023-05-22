@@ -19,7 +19,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ParkingLotApp"
         tools:targetApi="31">
-        <meta-data android:name="com.kakao.sdk.AppKey" android:value="36256e1def8bdf23956da31e0d641d47"/>
+        <meta-data android:name="com.kakao.sdk.AppKey" android:value="b8b6b96a022fc41ac8c006a2b68018c1"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">
